@@ -36,7 +36,7 @@
     --text-alt: #151515;
     --interactive-normal: #ffffff;
     --interactive-hover: #e6e6e6;
-    --interactive-active: #d1d1d1;
+    --interactive-active: #8d8d8d;
     --interactive-muted: #909090;
     --background-primary: #202020;
     --background-secondary: #1b1b1b;
@@ -823,7 +823,7 @@ code.inline:hover {
 }
 .base-3dtUhz .content-98HsJk .container-1r6BKw .children-19S4PO .topic-TCb_qw,
 .base-3dtUhz .title-3qD0b- .container-1r6BKw .children-19S4PO .topic-TCb_qw {
-    color: var(--color8);
+    color: var(--color7);
 }
 .base-3dtUhz .content-98HsJk .container-1r6BKw .children-19S4PO::after,
 .base-3dtUhz .title-3qD0b- .container-1r6BKw .children-19S4PO::after {
