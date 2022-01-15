@@ -85,7 +85,7 @@
     --background-spacing: #272727;
     --deprecated-quickswitcher-input-placeholder: ;
     --deprecated-text-input-bg: #1b1b1b;
-    --deprecated-text-input-border: var(--color8);
+    --deprecated-text-input-border: var(--color7);
     --deprecated-text-input-border-hover: #191919;
     --deprecated-text-input-border-disabled: #1b1b1b;
     --deprecated-text-input-prefix: #909090;
@@ -823,7 +823,7 @@ code.inline:hover {
 }
 .base-3dtUhz .content-98HsJk .container-1r6BKw .children-19S4PO .topic-TCb_qw,
 .base-3dtUhz .title-3qD0b- .container-1r6BKw .children-19S4PO .topic-TCb_qw {
-    color: var(--color7);
+    color: var(--color8);
 }
 .base-3dtUhz .content-98HsJk .container-1r6BKw .children-19S4PO::after,
 .base-3dtUhz .title-3qD0b- .container-1r6BKw .children-19S4PO::after {
