@@ -106,7 +106,7 @@
 }
 [data-popout-root],
 html {
-    --brand-experiment: #ffffff;
+    --brand-experiment: #8d8d8d;
     --brand-experiment-200: #151515;
     --brand-experiment-560: var(--background-modifier-hover);
     --brand-experiment-30a: #ffffff;
